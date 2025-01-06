@@ -41,6 +41,11 @@
                                 <h6>GALERI</h6>
                             </nuxt-link>
                         </li>
+                        <li class="nav-item mx-3">
+                            <nuxt-link to="/BIODATA">
+                                <h6>BIODATA</h6>
+                            </nuxt-link>
+                        </li>
                     </ul>
                 </ul>
             </div>

@@ -28,7 +28,7 @@
           Badan Pelayanan Perizinan Terpadu Kota Tasikmalaya No.
           420/9/SK-BPPT/2012 Tanggal 06 Februari 2012.
           <div>
-    <h1>INNILAH DATA DATA</h1>
+    <h1>INILAH DATA DATA</h1>
     <table border="1">
       <thead>
         <tr>
